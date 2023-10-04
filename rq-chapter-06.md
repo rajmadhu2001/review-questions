@@ -6,16 +6,16 @@ Shell Meta-Characters, Pipes, Search, and Tools
 a. special chars
 b. marked characters
 c. shell characters
-d. shell meta-characters
+d. shell meta-charactersnvhv
 
 2. Assume your pwd is ~. If you wanted to list every directory only that started with the letters "Do" what would be the command?
 a. ls -l
 b. ls -la [Dd]o
 c. ls -l Do
-d. ls -l Do*hjjnbjb
+d. ls -l Do*sahhbvh
 
 3. In figure 6.2 in Chapter 06 which of the 3 blue boxes is the step where shell meta-characters are transformed into text?
-a. Lexical analysis and parse   jjb
+a. Lexical analysis and parse
 b. Execution
 c. Builtins
 d. Expansion
